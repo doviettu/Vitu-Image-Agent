@@ -1,0 +1,5 @@
+{
+  "name": "Image Agent",
+  "description": "Upload an image, get an AI analysis, and generate a new artistic version based on your image and inspirational samples.",
+  "requestFramePermissions": []
+}
